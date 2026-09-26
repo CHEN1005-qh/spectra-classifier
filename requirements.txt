@@ -1,0 +1,9 @@
+# 光谱数据机器学习分类项目依赖
+# 安装方式：pip install -r requirements.txt
+# （适配 Python 3.9+，可运行于 Anaconda / 系统环境）
+
+numpy>=1.24
+scipy>=1.10
+scikit-learn>=1.3
+matplotlib>=3.7
+pytest>=7.0
